@@ -33,7 +33,3 @@ while True:
         print("That wasn't an integer value, try again:")
     else:
         break
-
-
-
-print(primes(inputs))
